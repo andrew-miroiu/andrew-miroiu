@@ -3,7 +3,7 @@
 <br/>
 
 - 👀 I’m interested in programming, technology and gaming.
-- 🌱 I’m currently learning to code by myself, in java mostly.
+- 🌱 I’m currently learning to code by myself, in Java mostly.
 - 📫 How to reach me: reach out to me on [twitter][twitter]
  
 ---
