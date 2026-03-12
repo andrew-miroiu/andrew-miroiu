@@ -29,7 +29,7 @@
  
 [twitter]: https://twitter.com/andrew_miroiu
 [github-stats]: https://github-readme-stats.vercel.app/api?username=andrew-miroiu&show_icons=true&theme=github_dark&hide_border=false&border_radius=25&border_color=58A6FF&count_private=true&custom_title=Andrew's%20Github%20Stats
-[typing-svg]: https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Node.js+Developer;ReactJS+%26+TypeScript;Java+Spring+Boot;PostgreSQL+%26+Supabase;JWT+%26+OAuth+Auth
+[typing-svg]: https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Node.js+Developer;ReactJS+%26+TypeScript;Java+Spring+Boot;Angular;PostgreSQL+%26+Supabase;JWT+%26+OAuth+Auth
 [github-streak]: https://streak-stats.demolab.com?user=andrew-miroiu&theme=github-dark&border_radius=25
 [activity-graph]: https://github-readme-activity-graph.vercel.app/graph?username=andrew-miroiu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true
 [github-stats]: https://github-readme-stats.vercel.app/api?username=andrew-miroiu&show_icons=true&theme=github_dark&hide_border=false&border_radius=25&border_color=58A6FF&count_private=true&custom_title=Andrew's%20Github%20Stats&cache_seconds=864000&v=2
